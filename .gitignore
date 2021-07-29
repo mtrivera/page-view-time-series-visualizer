@@ -51,3 +51,6 @@ docs/_build/
 
 # Renders
 *.png
+
+# Notebook cache
+.ipynb_checkpoints/
